@@ -26,4 +26,4 @@ The research paper is cited as follows:
 
 LeClerc et al., Hydroxyapatite catalyzed hydrothermal liquefaction transforms food waste from an environmental liability to renewable fuel, iScience (2022), https://doi.org/10.1016/j.isci.2022.104916
 
-*Title picture is from Matthew Burgos, source WPI*
+*Title picture is from Matthew Burgos, [source WPI](https://www.wpi.edu/news/cutting-waste-fossil-fuel-use-and-greenhouse-gas-emissions-turning-unused-food-biofuel)*
