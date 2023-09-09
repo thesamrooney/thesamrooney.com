@@ -3,11 +3,15 @@ title: "Flying like Falcons: PeAR Lab's Drone Research"
 date: 2023-09-05T12:00:00-00:00
 draft: false
 tags: ["WPI", "autonomous", "flight", "research"]
+featured_image: '/images/PeAR_test_track.JPG'
 ---
 
 > This article was written for the September 5, 2023 edition of Tech News, WPI's campus newspaper.
 
 If you’ve ever seen falconry videos online, you know how agile birds can be. Watching them fly at top speed through gaps between trees and through obstacles until they reach their goal is something truly remarkable. Currently, there is a lab on campus dedicated to pushing the limits of autonomous control by attempting to fly a drone with the same speed and agility as these naturally engineered creatures (proving that birds are real, at least for now). This lab is called the Perception and Autonomous Robotics Group, or PeAR, run by Professor Nitin Sanket.
+
+![One of the drones used in the PeAR lab.](/images/PeAR_drone.JPG)
+*One of the drones used in the lab. Photo taken by the author.*
 
 In just the same way that falconry birds avoid flying into tree trunks, PeAR’s goal is to keep a small, fast-flying drone from hitting obstacles. This is accomplished by using advanced machine learning algorithms that analyze camera data to identify high-risk areas for the drone's flight. The drone is programmed to avoid risky places to fly, but still move towards its goal.
 
