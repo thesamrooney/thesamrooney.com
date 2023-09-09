@@ -1,0 +1,4 @@
+baseURL = 'https://thesamrooney.com/'
+languageCode = 'en-us'
+title = "Sam Rooney's Website"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
