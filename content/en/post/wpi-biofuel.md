@@ -4,6 +4,7 @@ date: 2022-09-13T12:00:00-00:00
 draft: false
 tags: ["WPI", "biofuel", "food", "research"]
 featured_image: '/images/wpi_timko_biofuel.jpg'
+disable_share: True
 ---
 
 > This article was written for the September 13, 2022 issue of Tech News, WPI's campus newspaper.

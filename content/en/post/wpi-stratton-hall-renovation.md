@@ -4,6 +4,7 @@ date: 2023-09-05T11:00:00-00:00
 draft: false
 tags: ["WPI", "renovation", "construction", "campus"]
 featured_image: '/images/stratton3.JPG'
+disable_share: True
 ---
 
 > This article was written for the September 5, 2023 edition of Tech News, WPI's campus newspaper.

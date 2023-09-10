@@ -4,6 +4,7 @@ date: 2023-09-05T12:00:00-00:00
 draft: false
 tags: ["WPI", "autonomous", "flight", "research"]
 featured_image: '/images/PeAR_test_track.JPG'
+disable_share: True
 ---
 
 > This article was written for the September 5, 2023 edition of Tech News, WPI's campus newspaper.
