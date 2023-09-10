@@ -33,5 +33,9 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "github"
-url = "https://github.com/thesamrooney"
+  name = "github"
+  url = "https://github.com/thesamrooney"
+
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/thesamrooney/"
