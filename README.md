@@ -1,5 +1,6 @@
 # Sam Rooney's Website
 
 This website is intended to serve as a public repository for articles I write and other projects I complete.
+It contains articles I write for WPI, articles I write for fun or to learn about new things, as well as the odd project I complete. 
 
-Currently it has been updated to contain most of the articles and other content I have written for WPI's Tech News.
+Please take a look around!
