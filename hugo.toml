@@ -33,6 +33,10 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
+  name = "email"
+  url = "mailto:the.sam.rooney@gmail.com"
+
+[[params.ananke_socials]]
   name = "github"
   url = "https://github.com/thesamrooney"
 
