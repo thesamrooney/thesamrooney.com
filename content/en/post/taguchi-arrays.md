@@ -126,6 +126,15 @@ I find this rule can break down as the numbers of levels increases.
 
 In the end, due to the complexity of the problem and the relative simplicity of the alternative solution, I can only suggest that you use the preconstructed orthogonal arrays found from various sources online.
 
+# My Own Experiment
+
+Rather than simply lecturing on the benefits of Taguchi arrays, I figured I'd put my money where my mouth is and perform a Taguchi-based experiment myself.
+In this section I will be optimizing the 
+
+## Experiment and Variables
+
+
+
 # Resources
 
 [Penn State University Lecture Notes](https://www.me.psu.edu/cimbala/me345/Lectures/Taguchi_orthogonal_arrays.pdf)
