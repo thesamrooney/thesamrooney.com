@@ -76,8 +76,7 @@ The difference is made a little more clear when you use variables with three dif
 In this case, while using the same number of experiment runs, the 'One at a Time' method keeps most of the variables at the low level most of the time, while the Taguchi method uses a much greater variety of levels in the same amount of experiment runs. 
 
 It looks difficult to get data out of the Taguchi experiments, but when you quantify the results of the experiment, you can simply add up your quantitative results for each variable.
-In order to see the effect of Variable A, you would add up all the results where that variable is at its L, N, and H levels respectively, and compare the sums. 
-You can also average the values if that's more useful. 
+In order to see the effect of Variable A, you would add up all the results where that variable is at its L, N, and H levels respectively, and compare the sums.
 
 # How It Works
 
