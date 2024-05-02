@@ -3,7 +3,7 @@ title: "Stratton Hall Renovation Begins"
 date: 2023-09-05T11:00:00-00:00
 draft: false
 tags: ["WPI", "renovation", "construction", "campus"]
-featured_image: '/images/stratton3.JPG'
+featured_image: '/images/wpi_stratton3.JPG'
 disable_share: True
 ---
 
@@ -13,4 +13,4 @@ Anybody on campus this year will recognize the big green fences surrounding one 
 
 Construction began over the summer with the hall closing on May 30, and should be completed just in time for A-Term 2024. While this construction is intended to modernize the campus and improve energy efficiency, WPI plans for future construction efforts to be focused around improving and expanding options for research and housing on campus.
 
-![](/images/stratton6.JPG)
+![](/images/wpi_stratton6.JPG)
