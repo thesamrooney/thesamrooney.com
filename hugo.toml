@@ -29,8 +29,12 @@ enableRobotsTXT = true
   site_logo = ""
   description = "Sam Rooney's Website"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-navy"
+  background_color_class = "bg-black"
   recent_posts_number = 3
+
+[[params.ananke_socials]]
+  name = "email"
+  url = "mailto:the.sam.rooney@gmail.com"
 
 [[params.ananke_socials]]
   name = "github"
